@@ -1,0 +1,15 @@
+{
+  "title": "test5",
+  "thumbnail": {
+    "src": "/assets/360x540.png",
+    "width": 360,
+    "height": 360
+  },
+  "contentURL": "/contents/test2.md",
+  "authors": [
+    "ddb"
+  ],
+  "tags": [
+    "illust"
+  ]
+}

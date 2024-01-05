@@ -1,0 +1,17 @@
+{
+  "title": "test4",
+  "thumbnail": {
+    "src": "/assets/360x240.png",
+    "width": 360,
+    "height": 240
+  },
+  "description": "test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~.",
+  "externalLink": "https://biacco42.hatenablog.com/entry/2023/10/31/080000",
+  "authors": [
+    "Biacco42"
+  ],
+  "tags": [
+    "product",
+    "keyboard"
+  ]
+}

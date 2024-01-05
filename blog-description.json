@@ -11,121 +11,33 @@
     "ddb",
     "mizuhara"
   ],
-  "content-descriptions": [
+  "contents": [
     {
-      "title": "test7",
-      "thumbnail": {
-        "src": "/assets/360x240.png",
-        "width": 360,
-        "height": 240
-      },
-      "description": "test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~.",
-      "externalLink": "https://biacco42.hatenablog.com/entry/2023/10/31/080000",
-      "authors": [
-        "Biacco42"
-      ],
-      "tags": [
-        "product",
-        "keyboard"
-      ],
+      "descriptionURL": "/contents/test7.json",
       "publishedOn": "2023-10-31T16:00:00+09:00"
     },
     {
-      "title": "test6",
-      "thumbnail": {
-        "src": "/assets/360x540.png"
-      },
-      "contentURL": "/contents/test2.md",
-      "authors": [
-        "Biacco42",
-        "ddb"
-      ],
-      "tags": [
-        "product",
-        "keyboard"
-      ],
+      "descriptionURL": "/contents/test6.json",
       "publishedOn": "2023-09-31T16:00:00+09:00"
     },
     {
-      "title": "test5",
-      "thumbnail": {
-        "src": "/assets/360x540.png",
-        "width": 360,
-        "height": 360
-      },
-      "contentURL": "/contents/test2.md",
-      "authors": [
-        "ddb"
-      ],
-      "tags": [
-        "illust"
-      ],
+      "descriptionURL": "/contents/test5.json",
       "publishedOn": "2023-08-31T16:00:00+09:00"
     },
     {
-      "title": "test4",
-      "thumbnail": {
-        "src": "/assets/360x240.png",
-        "width": 360,
-        "height": 240
-      },
-      "description": "test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~. test dayo~.",
-      "externalLink": "https://biacco42.hatenablog.com/entry/2023/10/31/080000",
-      "authors": [
-        "Biacco42"
-      ],
-      "tags": [
-        "product",
-        "keyboard"
-      ],
+      "descriptionURL": "/contents/test4.json",
       "publishedOn": "2023-07-31T16:00:00+09:00"
     },
     {
-      "title": "test3",
-      "thumbnail": {
-        "src": "/assets/360x540.png"
-      },
-      "contentURL": "/contents/test2.md",
-      "authors": [
-        "Biacco42",
-        "ddb"
-      ],
-      "tags": [
-        "product",
-        "keyboard"
-      ],
+      "descriptionURL": "/contents/test3.json",
       "publishedOn": "2023-06-31T16:00:00+09:00"
     },
     {
-      "title": "test2",
-      "thumbnail": {
-        "src": "/assets/360x540.png",
-        "width": 360,
-        "height": 360
-      },
-      "contentURL": "/contents/test2.md",
-      "authors": [
-        "ddb"
-      ],
-      "tags": [
-        "illust"
-      ],
+      "descriptionURL": "/contents/test2.json",
       "publishedOn": "2023-05-31T16:00:00+09:00"
     },
     {
-      "title": "test1",
-      "thumbnail": {
-        "src": "/assets/360x540.png",
-        "width": 360,
-        "height": 360
-      },
-      "contentURL": "/contents/test2.md",
-      "authors": [
-        "ddb"
-      ],
-      "tags": [
-        "illust"
-      ],
+      "descriptionURL": "/contents/test1.json",
       "publishedOn": "2023-04-31T16:00:00+09:00"
     }
   ]
